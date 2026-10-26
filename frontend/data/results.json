@@ -1,0 +1,46 @@
+{
+  "_comment": "DEMO DATA — illustrative only, not real trading results. Replace the numbers below with real weekly results. See UPDATE-RESULTS.md for the exact format. Do not delete the 'isDemo' flag until real data is entered. Balance is in 'у.е.' (conventional units), not a real currency, on purpose.",
+  "isDemo": true,
+  "weeks": [
+    {
+      "date": "2026-08-24",
+      "trades": 12,
+      "profitable": 8,
+      "losses": 4,
+      "result": "+1.8%",
+      "balance": "10 811 у.е."
+    },
+    {
+      "date": "2026-08-17",
+      "trades": 9,
+      "profitable": 5,
+      "losses": 4,
+      "result": "+1.2%",
+      "balance": "10 619 у.е."
+    },
+    {
+      "date": "2026-08-10",
+      "trades": 14,
+      "profitable": 9,
+      "losses": 5,
+      "result": "+3.4%",
+      "balance": "10 493 у.е."
+    },
+    {
+      "date": "2026-08-03",
+      "trades": 7,
+      "profitable": 3,
+      "losses": 4,
+      "result": "-1.1%",
+      "balance": "10 148 у.е."
+    },
+    {
+      "date": "2026-07-27",
+      "trades": 11,
+      "profitable": 7,
+      "losses": 4,
+      "result": "+2.6%",
+      "balance": "10 260 у.е."
+    }
+  ]
+}
